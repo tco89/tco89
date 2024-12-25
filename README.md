@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    💁‍♂️ <a href="https://tcornille.github.io/blog">CV</a>
+    💁‍♂️ <a href="https://tcornille.github.io">CV</a>
   </p>
 </div>
 <br/>
