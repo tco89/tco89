@@ -1,9 +1,6 @@
-<div align="center">
-  <h3 align="center">
-    Welcome! 👋 Check my profile page >> <a href="https://tcornille.github.io">👉 here</a>
-  </h3>
-</div>
-<br/>
+<h1 align="center">
+  Welcome, I'm Théo! 👋 Check my <a href="https://tcornille.github.io">profile 💁‍♂️ </a>
+</h1>
 
 <!--
 ## 💼 Projects
