@@ -1,15 +1,15 @@
 <div align="center">
-  <p align="center">
-    💁‍♂️ <a href="https://tcornille.github.io">CV</a>
-  </p>
+  <h3 align="center">
+    Welcome! 👋 Check my profile page >> <a href="https://tcornille.github.io">👉 here</a>
+  </h3>
 </div>
 <br/>
 
+<!--
 ## 💼 Projects
 
 * [**Tradee**](https://github.com/tco89/tradee): Cryptocurrency trading bot using Deep Q-Learning
 
-<!--
 **tco89/tco89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
